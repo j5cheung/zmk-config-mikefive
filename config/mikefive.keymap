@@ -48,7 +48,7 @@
                           &kp ESCAPE   &lt 4 SPACE  &lt 2 TAB    &lt 3 ENTER  &kp BACKSPACE  &kp DEL
             >;
         };
-
+/*
         Rupestris_Base {
             bindings = <
 &as LS(Z) Z  &as LS(L) L                     &as LS(R) R  &as LS(K) K  &as LS(F) F  &as LS(V) V  &as LS(W) W    &as LS(U) U          &as LS(O) O       &as LS(Y) Y
@@ -93,5 +93,6 @@
                                   &trans           &trans                           &trans                             &trans        &trans          &trans
             >;
         };
+*/
     };
 };
